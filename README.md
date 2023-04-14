@@ -14,9 +14,11 @@ Basic Global Thresholding Algorithm - Image Processing
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/basic_global_thresholding_algorithm/raw/main/Documentation.pdf)
 
 ## Results 
 
-![App Screenshot](https://github.com/kiananvari/LSTM-price-prediction/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/basic_global_thresholding_algorithm/raw/main/Result/1.png)
+![App Screenshot](https://github.com/kiananvari/basic_global_thresholding_algorithm/raw/main/Result/2.png)
+
 
